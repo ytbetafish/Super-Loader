@@ -17,14 +17,6 @@
 [![contributors](https://img.shields.io/github/contributors/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/graphs/contributors)
 [![downloads](https://img.shields.io/github/downloads/ytbetafish/Super-Loader/total)](https://github.com/ytbetafish/Super-Loader/releases)
 
-> **上面一排是我们说的，下面一排是 GitHub 说的。** 建议两组对照阅读：
->
-> - `build: passing` —— GitHub 没找到可构建的对象，所以暂时无法反驳。
-> - `mods: 100/100` 对 `repo size: 0 B`。一百个模组，零字节。
-> - `code: none` 是本项目唯一一个被 GitHub 侧面证实的说法。
-> - `license: EPL` 对 `license: not identifiable by GitHub`。我们确实交了一份 LICENSE，GitHub 保持沉默，这很公平。
-> - `downloads: no releases found` —— 没人下载过，因为没有可下载的东西。
-> - `contributors: 1` —— 这一个人写了一份没有代码的项目，目前正在犹豫要不要算两个人。
 
 **一个实例。九大加载器。零翻译层。随机抽一百个模组，全部通过。**
 
