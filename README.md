@@ -1,11 +1,30 @@
 # Super Loader
 
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![mods](https://img.shields.io/badge/mods-100%2F100-brightgreen)](#)
-[![loaders](https://img.shields.io/badge/loaders-9-blue)](#)
-[![translation layer](https://img.shields.io/badge/translation%20layer-no-red)](#)
-[![code](https://img.shields.io/badge/code-none-lightgrey)](#)
-[![license](https://img.shields.io/badge/license-EPL-orange)](./LICENSE)
+<!-- 第一排：本项目自述 -->
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ytbetafish/Super-Loader)
+[![mods](https://img.shields.io/badge/mods-100%2F100-brightgreen)](https://github.com/ytbetafish/Super-Loader)
+[![loaders](https://img.shields.io/badge/loaders-9-blue)](https://github.com/ytbetafish/Super-Loader)
+[![translation layer](https://img.shields.io/badge/translation%20layer-no-red)](https://github.com/ytbetafish/Super-Loader)
+[![code](https://img.shields.io/badge/code-none-lightgrey)](https://github.com/ytbetafish/Super-Loader)
+[![license](https://img.shields.io/badge/license-EPL-orange)](https://github.com/ytbetafish/Super-Loader/blob/main/LICENSE)
+
+<!-- 第二排：GitHub 对本项目的客观评价 -->
+[![stars](https://img.shields.io/github/stars/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/commits/main)
+[![repo size](https://img.shields.io/github/repo-size/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader)
+[![license](https://img.shields.io/github/license/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/issues)
+[![contributors](https://img.shields.io/github/contributors/ytbetafish/Super-Loader)](https://github.com/ytbetafish/Super-Loader/graphs/contributors)
+[![downloads](https://img.shields.io/github/downloads/ytbetafish/Super-Loader/total)](https://github.com/ytbetafish/Super-Loader/releases)
+
+> **上面一排是我们说的，下面一排是 GitHub 说的。** 建议两组对照阅读：
+>
+> - `build: passing` —— GitHub 没找到可构建的对象，所以暂时无法反驳。
+> - `mods: 100/100` 对 `repo size: 0 B`。一百个模组，零字节。
+> - `code: none` 是本项目唯一一个被 GitHub 侧面证实的说法。
+> - `license: EPL` 对 `license: not identifiable by GitHub`。我们确实交了一份 LICENSE，GitHub 保持沉默，这很公平。
+> - `downloads: no releases found` —— 没人下载过，因为没有可下载的东西。
+> - `contributors: 1` —— 这一个人写了一份没有代码的项目，目前正在犹豫要不要算两个人。
 
 **一个实例。九大加载器。零翻译层。随机抽一百个模组，全部通过。**
 
