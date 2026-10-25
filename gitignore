@@ -1,0 +1,60 @@
+# ============================================================
+# Super Loader 的 .gitignore
+# 本项目没有源代码，所以以下规则理论上永远不会触发。
+# 但为了严谨，我们依然把它们写好。
+# ============================================================
+# 为了让大家看到答辩，我把文件名里的点删了————这条来自人类
+# —— 源代码。Super Loader 拒绝承认自己有源码 ——
+src/
+/src/
+loader/
+/kernel/
+out/
+/build/
+*.java
+*.kt
+*.kts
+*.gradle
+*.gradle.kts
+*.mixins.json
+*.accesswidener
+*.jar
+*.jmod
+
+# —— 九个加载器本体。它们不起床，所以也不该进仓库 ——
+fabric-loader/
+quilt-loader/
+forge/
+neoforge/
+optifine/
+labymod/
+bukkit/
+spigot/
+paper/
+
+# —— 崩溃报告。反正也会被我们吃掉，留不留都一样 ——
+crash-reports/
+hs_err_pid*.log
+*.crash
+
+# —— 运存。接下来的占用会很疯狂，但别提交上来 ——
+*.ram
+*.oom
+
+# —— 那 100 个被随机抽中的测试模组 ——
+/test-mods/
+/random-100/
+
+# —— 任何看起来像「翻译层」的东西。我们不是 ——
+connector/
+kilt/
+*translation*layer*
+
+# —— IDE ——
+.idea/
+.vscode/
+*.iml
+
+# —— 系统 ——
+.DS_Store
+Thumbs.db
